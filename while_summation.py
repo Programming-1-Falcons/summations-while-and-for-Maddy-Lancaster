@@ -4,7 +4,8 @@ loops = 0
 
 total = 0
 
-while x >= loops:
-    print(total)
+while x > loops:
+    
     loops += 1
     total += loops
+print(total)
